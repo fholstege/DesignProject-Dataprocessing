@@ -1,5 +1,5 @@
 ## DesignProject-Dataprocessing
-The repository for the group project for our course in data processing
+This repository contains our work for the design project of the course "dataprocessing" at the UvA. Our design project is concerned with the rise of cryptocurrencies. The group members are Daan, Mick, Vanessa and Floris.
 
-## Parts
-Includes our progress report, and in the future our dataset. 
+## Set-up
+The first folder contains are used datasets. The second contains our progress reports. 
